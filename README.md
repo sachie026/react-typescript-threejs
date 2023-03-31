@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 **@react-three/fiber :** React renderer for threejs.\
 **@react-three/drei :** Useful helpers and fully functional, ready-made abstractions.\
 **@react-three/cannon :** React hooks for cannon-es.\
-**react-use-websocket :** To create a webscoket connection.\
+**react-use-websocket :** To create a webscoket connection.
 
 ## Available Scripts
 
