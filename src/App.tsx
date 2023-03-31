@@ -37,7 +37,7 @@ function App() {
       sendMessage("size_request");
     }, GEOMETRY_UPDATE_INTERVAL_TIME);
 
-    return () => clearInterval(geometryUpdateIntervalId); //This is important
+    return () => clearInterval(geometryUpdateIntervalId); // Important to clear the interval id
   }, [sendMessage]);
 
   return (
